@@ -1,0 +1,3 @@
+/home/ctrl/project/luminos_IDE/crates/luminos-compositor/build/CMakeFiles/luminos-compositor.dir
+/home/ctrl/project/luminos_IDE/crates/luminos-compositor/build/CMakeFiles/edit_cache.dir
+/home/ctrl/project/luminos_IDE/crates/luminos-compositor/build/CMakeFiles/rebuild_cache.dir

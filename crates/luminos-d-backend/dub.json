@@ -1,0 +1,7 @@
+{
+    "name": "luminos-d-backend",
+    "description": "Natywny backend Luminos IDE w języku D",
+    "targetType": "staticLibrary",
+    "targetName": "luminos_d_backend",
+    "dflags": ["-betterC"]
+}

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ctrl/project/luminos_IDE/crates/luminos-compositor/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,8 @@
+[package]
+name = "luminos-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+luminos-gfx = { path = "../luminos-gfx" }
+ctrlc = "3.4"

@@ -1,0 +1,4 @@
+[workspace]
+members = ["crates/luminos-app","crates/luminos-core","crates/luminos-gfx"
+
+, "crates/luminos-lsp", "crates/luminos-lua", "crates/luminos-ui"]
